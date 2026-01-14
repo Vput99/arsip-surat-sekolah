@@ -1,0 +1,7 @@
+{
+  "name": "ArsipSurat SD - Sistem Pengarsipan & Pembuat Surat Digital",
+  "description": "Aplikasi manajemen pengarsipan surat masuk, surat keluar, dan pembuat draft surat otomatis bertenaga AI untuk Sekolah Dasar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
